@@ -1,2 +1,2 @@
-# .github
+# CHALLEN.GG
 R E A D M E !
