@@ -8,7 +8,14 @@
 |  |  |  |  | 
 |                            김진영                            |                           조다솜                          |                          차민성                        |                         [김우진](https://github.com/kwj7554)                        |                          박석원                        |                          
 
-## 3.프로젝트 구조
+## 3. 사용기술 
+**Backend**
+- **Language** : ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- **Library & Framework** :
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+- **Database** : ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## 4.프로젝트 구조
 ### 프론트 [FrontEnd](https://github.com/JOY-org/CHALLEN.GG_FE)
 ### 백엔드 [BackEnd](https://github.com/JOY-org/CHALLEN.GG_BE)
 ```
@@ -27,10 +34,11 @@ Challen.GG_BE
 ├─ package.json
 ├─ README.md
 ```
-## 4. 역할 분담
+## 5. 역할 분담
 
-## 5. 개발 기간 및 작업 관리
+## 6. 개발 기간 및 작업 관리
 ### 개발 기간
 ### 작업 관리
 
-## 6. 트러플 슈팅
+## 7. 트러플 슈팅
+## 8. 개발 후기
