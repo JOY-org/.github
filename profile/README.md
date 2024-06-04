@@ -11,6 +11,63 @@
 ## 3.프로젝트 구조
 ### 프론트 [FrontEnd](https://github.com/JOY-org/CHALLEN.GG_FE)
 ### 백엔드 [BackEnd](https://github.com/JOY-org/CHALLEN.GG_BE)
+```
+Challen.GG_BE
+├─ .env
+├─ .gitignore
+├─ .nvmrc
+├─ app.js
+├─ controllers
+│  ├─ auth.js
+│  ├─ calorie.js
+│  ├─ cart.js
+│  ├─ challenge.js
+│  ├─ check.js
+│  ├─ comment.js
+│  ├─ enquiry.js
+│  ├─ notification.js
+│  ├─ post.js
+│  ├─ product.js
+│  ├─ purchased.js
+│  ├─ review.js
+│  ├─ success.js
+│  └─ user.js
+├─ middlewares
+│  └─ index.js
+├─ models
+│  ├─ calorie.js
+│  ├─ cart.js
+│  ├─ challenge.js
+│  ├─ check.js
+│  ├─ comment.js
+│  ├─ enquiry.js
+│  ├─ index.js
+│  ├─ notification.js
+│  ├─ point.js
+│  ├─ post.js
+│  ├─ product.js
+│  ├─ purchased.js
+│  ├─ review.js
+│  ├─ success.js
+│  └─ user.js
+├─ package-lock.json
+├─ package.json
+├─ passport
+│  ├─ google.js
+│  ├─ index.js
+│  ├─ jwt.js
+│  ├─ kakao.js
+│  ├─ local.js
+├─ public
+│  └─ uploads
+│     ├─ challenge
+│     ├─ check
+│     ├─ post
+│     ├─ product
+├─ README.md
+└─ utils
+   └─ scedule.js
+```
 
 ## 4. 역할 분담
 
