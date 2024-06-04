@@ -19,8 +19,8 @@
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 - Database : ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ## 4.프로젝트 구조
-### FrontEnd [FrontEnd](https://github.com/JOY-org/CHALLEN.GG_FE)
-### BackEnd [BackEnd](https://github.com/JOY-org/CHALLEN.GG_BE)
+### [FrontEnd](https://github.com/JOY-org/CHALLEN.GG_FE)
+### [BackEnd](https://github.com/JOY-org/CHALLEN.GG_BE)
 ```
 Challen.GG_BE
 ├─ .env
@@ -38,7 +38,11 @@ Challen.GG_BE
 ├─ README.md
 ```
 ## 5. 역할 분담
-
+### 김진영
+### 조다솜
+### 차민성
+### 김우진
+### 박석원
 ## 6. 개발 기간 및 작업 관리
 ### 개발 기간
 ### 작업 관리
