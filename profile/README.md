@@ -1,4 +1,4 @@
-# 💪 건강 관련 챌린지 서비스 웹 CHALLEN.GG READ.ME
+# 💪 건강 관련 챌린지 서비스 웹 [CHALLEN.GG](https://github.com/JOY-org/CHALLEN.GG_DOC) READ.ME
 
 ## 1. 프로젝트 소게 
 
@@ -16,4 +16,4 @@
 
 ## 6. 트러플 슈팅
 
-3. [Documents](https://github.com/JOY-org/CHALLEN.GG_DOC)
+3. 
