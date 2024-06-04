@@ -17,58 +17,16 @@ Challen.GG_BE
 ├─ .gitignore
 ├─ .nvmrc
 ├─ app.js
-├─ controllers
-│  ├─ auth.js
-│  ├─ calorie.js
-│  ├─ cart.js
-│  ├─ challenge.js
-│  ├─ check.js
-│  ├─ comment.js
-│  ├─ enquiry.js
-│  ├─ notification.js
-│  ├─ post.js
-│  ├─ product.js
-│  ├─ purchased.js
-│  ├─ review.js
-│  ├─ success.js
-│  └─ user.js
-├─ middlewares
-│  └─ index.js
-├─ models
-│  ├─ calorie.js
-│  ├─ cart.js
-│  ├─ challenge.js
-│  ├─ check.js
-│  ├─ comment.js
-│  ├─ enquiry.js
-│  ├─ index.js
-│  ├─ notification.js
-│  ├─ point.js
-│  ├─ post.js
-│  ├─ product.js
-│  ├─ purchased.js
-│  ├─ review.js
-│  ├─ success.js
-│  └─ user.js
-├─ package-lock.json
-├─ package.json
-├─ passport
-│  ├─ google.js
-│  ├─ index.js
-│  ├─ jwt.js
-│  ├─ kakao.js
-│  ├─ local.js
+├─ controllers/
+├─ middlewares/
+├─ models/
+├─ passport/
 ├─ public
 │  └─ uploads
-│     ├─ challenge
-│     ├─ check
-│     ├─ post
-│     ├─ product
+├─ utils/
+├─ package.json
 ├─ README.md
-└─ utils
-   └─ scedule.js
 ```
-
 ## 4. 역할 분담
 
 ## 5. 개발 기간 및 작업 관리
