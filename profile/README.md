@@ -10,7 +10,7 @@
 
 ## 3. 사용기술 
 **Frontend**
-- Language :
+- Language : 
 - 
 **Backend**
 - Language : ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -40,6 +40,10 @@ Challen.GG_BE
 ## 5. 역할 분담
 ### 김진영
 ### 조다솜
+  -메인페이지
+    :전체 레이아웃구성,챌린지 설명,챌린지 메뉴필터,챌린지 디자인및 기능 전체구현,랭킹스템디자인및 기능전체 구현
+  -알림페이지
+    :알림페이지 기능구현및 
 ### 차민성
 ### 🐥김우진
   - UI<br />
