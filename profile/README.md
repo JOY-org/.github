@@ -1,6 +1,6 @@
 # 💪 건강 관련 챌린지 서비스 웹 [CHALLEN.GG](https://github.com/JOY-org/CHALLEN.GG_DOC) READ.ME
 
-## 1. 프로젝트 소게 
+## 1. 프로젝트 소개 
 
 ## 2. 팀원 소개
 |                                          Frontend(Leader)                                           |                                         Frontend                                          |                                         Frontend                                          |                                         Backend                                         |                                           Backend                                           |            
