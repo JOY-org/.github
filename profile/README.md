@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+![스크린샷 2024-06-08 105355](https://github.com/JOY-org/.github/assets/159886707/9ebefbf9-5b93-4b31-9768-f01833e3f4af)
 # 💪 건강 관련 챌린지 서비스 웹 [CHALLEN.GG](https://github.com/JOY-org/CHALLEN.GG_DOC) READ.ME
 
 ## 1. 프로젝트 소개 
