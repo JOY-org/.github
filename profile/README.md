@@ -10,7 +10,7 @@
 
 ## 3. 사용기술 
 **Frontend**
-- Language : 
+- Language :![https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white]
 - 
 **Backend**
 - Language : ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
