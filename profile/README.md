@@ -44,112 +44,33 @@ COVID-19 팬데믹 이후 사람들은 언제 찾아올지 모르는 질병에 �
 ```
 src
  ┣ api
- ┃ ┣ services
- ┃ ┃ ┣ cart.js
- ┃ ┃ ┣ challenge.js
- ┃ ┃ ┣ post.js
- ┃ ┃ ┗ user.js
+ ┃ ┣ services/
  ┃ ┗ api.js
- ┣ assets
- ┃ ┗ kakao_login_medium_wide.png
- ┣ components
- ┃ ┣ css_module
- ┃ ┃ ┣ Banner.module.css
- ┃ ┃ ┣ Footer.module.css
- ┃ ┃ ┣ Header.module.css
- ┃ ┃ ┗ Message.module.css
- ┃ ┣ layout
- ┃ ┃ ┣ Footer.jsx
- ┃ ┃ ┣ Header.jsx
- ┃ ┃ ┣ Layout.jsx
- ┃ ┃ ┗ Main.jsx
- ┃ ┣ AdMessage.jsx
- ┃ ┣ Banner.jsx
- ┃ ┗ MyMessage.jsx
+ ┣ assets/
+ ┣ components/
+ ┃ ┣ css_module/
+ ┃ ┣ layout/
  ┣ contexts
  ┃ ┗ LoginContext.jsx
  ┣ hooks
  ┃ ┣ useAuth.jsx
  ┃ ┗ useProvideAuth.jsx
- ┣ images
- ┃ ┣ adidas_pants2.png
- ┃ ┣ adidas_pants3.png
- ┃ ┣ likeIcon.png
- ┃ ┗ main.jpg
+ ┣ images/
  ┣ pages
- ┃ ┣ community
- ┃ ┃ ┣ css_module
- ┃ ┃ ┃ ┣ Community.module.css
- ┃ ┃ ┃ ┣ CommunityList.module.css
- ┃ ┃ ┃ ┣ CommunityPost.module.css
- ┃ ┃ ┃ ┗ PostModal.module.css
- ┃ ┃ ┣ Community.jsx
- ┃ ┃ ┣ CommunityList.jsx
- ┃ ┃ ┣ CommunityPost.jsx
- ┃ ┃ ┣ CommunityPostModal.jsx
- ┃ ┃ ┣ PostComment.jsx
- ┃ ┃ ┣ PostCreate.jsx
- ┃ ┃ ┗ PostModal.jsx
- ┃ ┣ homes
- ┃ ┃ ┣ components
- ┃ ┃ ┃ ┣ Btn.jsx
- ┃ ┃ ┃ ┣ Challenge.jsx
- ┃ ┃ ┃ ┣ ChallengeModal.jsx
- ┃ ┃ ┃ ┣ MenuFilter.jsx
- ┃ ┃ ┃ ┗ Ranker.jsx
- ┃ ┃ ┣ css_module
- ┃ ┃ ┃ ┣ Btn.module.css
- ┃ ┃ ┃ ┗ Home.module.css
- ┃ ┃ ┗ images
- ┃ ┃ ┃ ┣ app_image1.jpg
- ┃ ┃ ┃ ┣ app_image2.png
- ┃ ┃ ┃ ┣ app_image3.png
- ┃ ┃ ┃ ┣ five.png
- ┃ ┃ ┃ ┣ header_bg.jpg
- ┃ ┃ ┃ ┣ iPhone-app.png
- ┃ ┃ ┃ ┗ seven_img.jpg
+ ┃ ┣ community/
+ ┃ ┃ ┣ css_module/
+ ┃ ┣ homes/
+ ┃ ┃ ┣ css_module/
+ ┃ ┃ ┣ components/
+ ┃ ┃ ┗ imageㄴ/
  ┃ ┣ mypages
- ┃ ┃ ┣ css_module
- ┃ ┃ ┃ ┗ MyPage.module.css
- ┃ ┃ ┣ Certification.jsx
- ┃ ┃ ┣ ChallengeManage.jsx
- ┃ ┃ ┣ Follow.jsx
- ┃ ┃ ┣ Kcal.jsx
- ┃ ┃ ┣ MadeChallenge.jsx
- ┃ ┃ ┣ MyButtons.jsx
- ┃ ┃ ┣ MyDashBoard.jsx
- ┃ ┃ ┣ MyInfo.jsx
- ┃ ┃ ┗ PurchaseList.jsx
+ ┃ ┃ ┣ css_module/
  ┃ ┣ notfound
- ┃ ┃ ┣ NotFound.jsx
- ┃ ┃ ┗ NotFoundCss.module.css
+ ┃ ┃ ┣ css_module/
  ┃ ┣ shoppingmall
- ┃ ┃ ┣ components
- ┃ ┃ ┃ ┣ InquiryPagination.jsx
- ┃ ┃ ┃ ┣ ProductPagination.jsx
- ┃ ┃ ┃ ┗ ReviewPagination.jsx
- ┃ ┃ ┣ css_module
- ┃ ┃ ┃ ┣ Shopping.module.css
- ┃ ┃ ┃ ┣ ShoppingCart.module.css
- ┃ ┃ ┃ ┣ ShoppingDetail.module.css
- ┃ ┃ ┃ ┣ ShoppingProduct.module.css
- ┃ ┃ ┃ ┗ ShoppingPurchase.module.css
- ┃ ┃ ┣ images
- ┃ ┃ ┃ ┣ adidas_pants2.png
- ┃ ┃ ┃ ┣ cart_image.png
- ┃ ┃ ┃ ┣ detail_banner.png
- ┃ ┃ ┃ ┣ nike_shose.png
- ┃ ┃ ┃ ┣ purchase.png
- ┃ ┃ ┃ ┣ shop.png
- ┃ ┃ ┃ ┣ shopping_bag.png
- ┃ ┃ ┃ ┣ shopping_mall.png
- ┃ ┃ ┃ ┣ shopping_mall3.png
- ┃ ┃ ┃ ┣ umbro_short.png
- ┃ ┃ ┃ ┗ warning_icon.png
- ┃ ┃ ┣ ShoppingCart.jsx
- ┃ ┃ ┣ ShoppingDetail.jsx
- ┃ ┃ ┣ ShoppingProduct.jsx
- ┃ ┃ ┗ ShoppingPurchase.jsx
+ ┃ ┃ ┣ css_module/
+ ┃ ┃ ┣ components/
+ ┃ ┃ ┣ images/
  ┃ ┣ Home.jsx
  ┃ ┣ MyPage.jsx
  ┃ ┣ Shopping.jsx
@@ -158,11 +79,8 @@ src
  ┣ utils
  ┃ ┗ date.js
  ┣ App.js
- ┣ App.test.js
  ┣ index.css
- ┣ index.js
- ┣ reportWebVitals.js
- ┗ setupTests.js
+ ┗ index.js
 ```
 ### [BackEnd](https://github.com/JOY-org/CHALLEN.GG_BE)
 ```
