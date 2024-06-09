@@ -41,7 +41,7 @@ COVID-19 팬데믹 이후 사람들은 언제 찾아올지 모르는 질병에 �
 
 ## 4.프로젝트 구조
 ### [FrontEnd](https://github.com/JOY-org/CHALLEN.GG_FE)
-
+```
 src
  ┣ api
  ┃ ┣ services
@@ -163,6 +163,7 @@ src
  ┣ index.js
  ┣ reportWebVitals.js
  ┗ setupTests.js
+```
 ### [BackEnd](https://github.com/JOY-org/CHALLEN.GG_BE)
 ```
 Challen.GG_BE
